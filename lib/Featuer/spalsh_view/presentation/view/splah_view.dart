@@ -118,7 +118,6 @@ class _SplashViewState extends State<SplashView>
           ),
 
           const Spacer(),
-          // النص الثابت في الأسفل
           Text(
             'CONNECTING TALENTS',
             style: Styles.textStyle18(context).copyWith(color: Colors.white),
